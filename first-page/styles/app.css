@@ -1,0 +1,14 @@
+body h1 {
+    color: #00FF00;
+}
+
+body > *{
+    background-color: rgb(112, 26, 211);
+}
+body > .warning{
+    background-color: brown;
+}
+.title {
+    font-size: 50px;
+    color: #9900FF;
+}
